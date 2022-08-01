@@ -105,3 +105,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+# Un lugar feliz para tu codigo 
+## [Lo que mas me gusto de GitHub](https://cdn.elgrupoinformatico.com/Noticias/2018/08/gif-gato-pc-600x301.gif)
+..- Leyendo el texto pude aprender como puedo usar GitHub para compartir mis archivos de código o de muchas cosas mas para poder ayudar a la comunidad que este interesada en lo que subo :partying_face: , también es una gran ayuda para mi y mi aprendizaje ya que puedo guiarme de los repositorios de otra gente para poder tomarlos de inspiración para mis trabajos :speak_no_evil: , también es una gran herramienta para hacer trabajos grupales en la cual puedo compartir mis archivos a mis compañeros y hacer mas fácil el trabajo, otra cosa que me llamo la atención es que puedo hacer comparaciones entre archivos para que sea mas eficiente le trabajo, me parece que GitHUb es un gran lugar para guardad mis codigos y compartirlos con mucha gente. :robot: 
